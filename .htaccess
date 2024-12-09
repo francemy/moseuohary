@@ -1,0 +1,7 @@
+# Habilitar o mod_rewrite
+RewriteEngine On
+
+# Redirecionar todas as requisições para o arquivo index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]
