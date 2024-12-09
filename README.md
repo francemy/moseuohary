@@ -104,5 +104,5 @@ Este projeto está sob  Apache License  Version 2.0, January 2004 http://www.apa
 ## **Autor**
 
 - **Nome:** Francemy Eduardo Sebastião
-- **Contato:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
+- **Contato:** [francemysebastiaofrancemy@gmail.com](mailto:gelson23tg@gmail.com)
+- **GitHub:** ([https://github.com/seuusuario](https://github.com/francemy))
